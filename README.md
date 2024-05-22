@@ -6,7 +6,6 @@
 - React.js
 - Node.js
 - JavaScript
-- HTML
 - CSS
 - PHP
 - MySQL
@@ -14,10 +13,10 @@
 - MongoDB
 
 ### Featured Projects:
-- [Dine-in Pe](#) - Description
-- [Blood Donor Registration Portal](#) - Description
-- [Bus Ticket Booking System](#) - Description
-- [Dental Appointment Booking System](#) - Description
+- [Movie Ticket Booking](https://github.com/rohandafarefr/mt-booking) - Description
+- [Blood Donor Registration Portal](https://github.com/rohandafarefr/blood_donation_platform) - Description
+- [Bus Ticket Booking System](https://github.com/rohandafarefr/ar-bus) - Description
+- [Dental Appointment Booking System](https://github.com/rohandafarefr/dental) - Description
 
 ### Skills & Certifications:
 - **CSS (June 2023):**

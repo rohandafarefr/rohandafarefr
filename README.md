@@ -1,6 +1,6 @@
 # Rohan Sunil Dafare
 
-## Full Stack Web Developer | UI/UX Designer
+## Full Stack Developer | UI/UX Designer
 
 ### Technologies:
 - React.js
